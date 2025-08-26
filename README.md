@@ -23,7 +23,7 @@ Clean Tkinter GUI interface.
 
 (Optional – you can add an image of your running app here)
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/Buvanesh-01/CodeAlpha_BasicNetworkSniffer/blob/main/Screenshot%202025-08-26%20222819.png)
 
 🛠️ Requirements
 
