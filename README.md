@@ -22,7 +22,7 @@ Clean Tkinter GUI interface.
 📸 Screenshot
 
 
-![App Screenshot](https://github.com/Buvanesh-01/CodeAlpha_BasicNetworkSniffer/blob/main/Screenshot%202025-08-26%20222819.png)
+![App Screenshot](https://github.com/Buvanesh-01/CodeAlpha_BasicNetworkSniffer/blob/main/Screenshot%202025-08-26%20223741.png)
 
 🛠️ Requirements
 
